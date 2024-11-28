@@ -150,6 +150,7 @@ img{
   text-indent: 1rem;
   padding: 1rem;
   list-style: none;
+  width: 100%;
 }
 
 .extra ul {
@@ -213,4 +214,7 @@ img{
     padding-bottom: 1rem;
   }
 
+  .page{
+    width: 100%;
+  }
 }
